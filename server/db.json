@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "sportName": "Football",
+      "addPossition": "First"
+    },
+    {
+      "id": 2,
+      "sportName": "Baseball",
+      "addPossition": "First"
+    },
+    {
+      "id": 3,
+      "sportName": "Baseball",
+      "addPossition": "First"
+    },
+    {
+      "id": 4,
+      "sportName": "Hockey",
+      "addPossition": "First"
+    },
+    {
+      "sportName": "Soccer",
+      "addPosition": "",
+      "addPossition": "Last",
+      "id": 5
+    }
+  ]
+}
